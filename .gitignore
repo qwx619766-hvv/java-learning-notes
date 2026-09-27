@@ -1,0 +1,14 @@
+# —— IDE 个人配置（IntelliJ IDEA）——
+.idea/
+*.iml
+
+# —— 编译产物（源码在，随时可重新生成）——
+out/
+target/
+*.class
+
+# —— macOS 系统文件 ——
+.DS_Store
+
+# —— 日志文件 ——
+*.log
